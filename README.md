@@ -23,3 +23,5 @@ This Tetris game is inspired by the classic Tetris game created by Alexey Pajitn
 If you have any questions or inquiries about this project, you can contact me at my : ambedgaromgar7866@gmail.com.
 
 Thank you for visiting this repository and enjoy playing Tetris!
+
+![Green Gradient Application Showcase Presentation](https://github.com/ambedgar777/cloth_store_ui/assets/49684285/e5ef3b3f-2b86-4cfe-aca5-b89bafaa3c9d)
